@@ -26,3 +26,4 @@ public class EmailMessageConsumer {
 		emailMessageComponent.sendMessage(dto);
 	}
 }
+ 
